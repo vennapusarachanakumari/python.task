@@ -1,0 +1,104 @@
+# #positive or negative:
+# num = int(input("Enter a number: "))
+
+# if num > 0:
+#     print("Positive Number")
+# else:
+#     print("Not a Positive Number")
+# lowercase and uppercase
+# ch = input("Enter a character: ")
+
+# if 'A' <= ch <= 'Z':
+#     print("Uppercase Letter")
+# elif 'a' <= ch <= 'z':
+#     print("Lowercase Letter")
+# else:
+#     print("Not an Alphabet")    
+#PASS OR FAIL 6 SUBJECTS
+# s1 = int(input("Enter Subject 1 mark: "))
+# s2 = int(input("Enter Subject 2 mark: "))
+# s3 = int(input("Enter Subject 3 mark: "))
+# s4 = int(input("Enter Subject 4 mark: "))
+# s5 = int(input("Enter Subject 5 mark: "))
+# s6 = int(input("Enter Subject 6 mark: "))
+
+# if s1 > 35 and s2 > 35 and s3 > 35 and s4 > 35 and s5 > 35 and s6 > 35:
+#     print("PASS")
+# else:
+#     print("FAIL")
+#combined numbers:
+# 1. Positive or Not
+num = int(input("Enter a number: "))
+if num > 0:
+    print("Positive Number")
+else:
+    print("Not a Positive Number")
+
+# 2. Uppercase or Lowercase
+ch = input("Enter a character: ")
+if 'A' <= ch <= 'Z':
+    print("Uppercase Letter")
+elif 'a' <= ch <= 'z':
+    print("Lowercase Letter")
+else:
+    print("Not an Alphabet")
+
+# 3. Pass or Fail (6 Subjects)# 1. Positive or Not
+num = int(input("Enter a number: "))
+if num > 0:
+    print("Positive Number")
+else:
+    print("Not a Positive Number")
+
+# 2. Uppercase or Lowercase
+ch = input("Enter a character: ")
+if 'A' <= ch <= 'Z':
+    print("Uppercase Letter")
+elif 'a' <= ch <= 'z':
+    print("Lowercase Letter")
+else:
+    print("Not an Alphabet")
+
+# 3. Pass or Fail (6 Subjects)
+s1 = int(input("Subject 1: "))
+s2 = int(input("Subject 2: "))
+s3 = int(input("Subject 3: "))
+s4 = int(input("Subject 4: "))
+s5 = int(input("Subject 5: "))
+s6 = int(input("Subject 6: "))
+
+if s1 > 35 and s2 > 35 and s3 > 35 and s4 > 35 and s5 > 35 and s6 > 35:
+    print("PASS")
+else:
+    print("FAIL")
+#combined numbers:
+# 1. Positive or Not
+num = int(input("Enter a number: "))
+if num > 0:
+    print("Positive Number")
+else:
+    print("Not a Positive Number")
+
+# 2. Uppercase or Lowercase
+ch = input("Enter a character: ")
+if 'A' <= ch <= 'Z':
+    print("Uppercase Letter")
+elif 'a' <= ch <= 'z':
+    print("Lowercase Letter")
+else:
+    print("Not an Alphabet")
+
+# 3. Pass or Fail (6 Subjects)
+s1 = int(input("Subject 1: "))
+s2 = int(input("Subject 2: "))
+s3 = int(input("Subject 3: "))
+s4 = int(input("Subject 4: "))
+s5 = int(input("Subject 5: "))
+s6 = int(input("Subject 6: "))
+
+if s1 > 35 and s2 > 35 and s3 > 35 and s4 > 35 and s5 > 35 and s6 > 35:
+    print("PASS")
+else:
+    print("FAIL")
+        
+    
