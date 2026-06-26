@@ -150,17 +150,17 @@ b = 4
 cubes = a**3 - b**3
 print(cubes)
 #8.write a program to print cubes from 1 to N
-n=int(input("Enter a number: "))
-for i in range(1,n):
-    print(i**3)
-#9.write a program to find the cube root of a number
-n = float(input("Enter a number: "))
-cube_root = n ** (1/3)
-print(cube_root)
-#10.write a program to find the largest cube less than or equal to N
-N = int(input("Enter a number: "))
-i = 1
-while i**3 <= N:
-    i += 1
-print((i-1)**3)
+# n=int(input("Enter a number: "))
+# for i in range(1,n):
+#     print(i**3)
+# #9.write a program to find the cube root of a number
+# n = float(input("Enter a number: "))
+# cube_root = n ** (1/3)
+# print(cube_root)
+# 10.write a program to find the largest cube less than or equal to N
+# N = int(input("Enter a number: "))
+# i = 1
+# while i**3 <= N:
+#     i += 1
+# print((i-1)**3)
 
